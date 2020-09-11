@@ -1,6 +1,6 @@
 {
 	"name": "xspace.abc-js",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Build for CKEditor. Easy to integrate and needs minimum configuration",
 	"keywords": [
 		"ckeditor5-build",
@@ -21,7 +21,9 @@
 		"framework"
 	],
 	"main": "./build/ckeditor.js",
-	"files": [ "build" ],
+	"files": [
+		"build"
+	],
 	"devDependencies": {
 		"@ckeditor/ckeditor5-autoformat": "^22.0.0",
 		"@ckeditor/ckeditor5-basic-styles": "^22.0.0",
